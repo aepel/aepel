@@ -37,7 +37,7 @@ I'm Ariel Epelman, a passionate software engineer with over 22 years of experien
 - **Other**: Microservices architecture, Event-Driven Architecture, CI/CD, Solid and Clean Architecture fan
 
 #### 🏆 Achievements
-- **CTO at SystemOne**: Built a new team from scratch, leading hiring, training, and mentoring efforts.
+- **Temporary CTO at SystemOne**: Unofficially filled the void for 6 month until the new CTO arrived. Built a new team from scratch, leading hiring, training, and mentoring efforts.
 - **Senior Staff Software Engineer Manager at Opstart.co**: Created workflows, policies, and techniques for a junior team.
 - **Stanford University AI Certificate**: Recent certification focused on the latest advancements in AI.
 
